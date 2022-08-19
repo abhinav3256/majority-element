@@ -1,5 +1,5 @@
 # majority-element
-#leetcoe 169
+#leetcode 169
 
 
 Given an array nums of size n, return the majority element.
